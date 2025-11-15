@@ -1,6 +1,3 @@
-# sistemas-de-estoque
-O sistema de estoque em Python permite cadastrar, excluir, atualizar e visualizar produtos de forma simples. Cada item contém nome, validade e valor. Com menu interativo, facilita o gerenciamento básico de produtos, garantindo organização e controle rápido do estoque.
-
 # Sistema de Gestão de Estoque (ERP Simulado)
 
 Este projeto implementa uma simulação simples de um módulo de estoque de um ERP, utilizando a linguagem Python. O objetivo é permitir o cadastro, exclusão, listagem e geração de relatórios de produtos, aplicando conceitos de gestão de estoque, como organização de itens, controle de quantidades e visualização em formato de pilha.
